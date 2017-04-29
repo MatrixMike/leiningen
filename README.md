@@ -1,2 +1,3 @@
 # leiningen
 leiningen batch build file with working attributes
+This was created to obviate the need to chmod the bat file. I re-install on different combinations of hardware and software regularly - when I am happy that this works better than the leiningen.org method I will suggest it to them...
